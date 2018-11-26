@@ -1,7 +1,3 @@
----
-typora-root-url: ./images
----
-
 ### 一 静态Web
 
 HTTP请求内容由Web服务器文件系统提供
