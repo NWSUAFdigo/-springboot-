@@ -93,19 +93,19 @@ HTTP请求内容由Web服务器计算得来
 
 - JSP + Servlet + JavaBeans
 
-  ![2 Web上-1](/2 Web上-1.png)
+  ![2 Web上-1](images/2 Web上-1.png)
 
 - MVC (Model + View + Controller)
 
-  ![2 Web上](/2 Web上-2.png)
+  ![2 Web上](images/2 Web上-2.png)
 
 - Struts
 
-  ![](/2 Web上-3.png)
+  ![](images/2 Web上-3.png)
 
 - Spring MVC
 
-  ![](/2 Web上-4.png)
+  ![](images/2 Web上-4.png)
 
 ##### MVC与Struts/SpringMVC差异
 
